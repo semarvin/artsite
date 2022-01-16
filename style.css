@@ -107,11 +107,11 @@ a:visited{
 }
 
 img.main{
-    opacity: 1;
+    opacity: .5;
 }
 
 img.main:hover{
-    opacity: .5;
+    opacity: 1;
 }
 
 table {
