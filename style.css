@@ -131,7 +131,7 @@ div {
 
 div.space {
     float: right;
-    width: 10%;
+    width: 5%;
 }
 
 @media only screen and (max-width: 480px) {
